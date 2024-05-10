@@ -14,4 +14,4 @@ while guess_word != word and out_of_guesses:
 if out_of_guesses == False:
     print("Sorry, your chances are used up")
 else:
-    print("Congrats, you did it!")
+    print("Congrats, you won!")
